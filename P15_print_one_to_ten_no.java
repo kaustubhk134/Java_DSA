@@ -5,6 +5,5 @@ public class P15_print_one_to_ten_no {
             System.out.print(n+" ");
             n ++;
         }
-    }
-    
+    }   
 }
