@@ -22,6 +22,5 @@ public class P13_calculator {
                        break;
             default : System.out.println("Wrong Opeator");
         }
-        
     }
 }
