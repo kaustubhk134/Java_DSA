@@ -7,5 +7,4 @@ public class P20_do_while_loop {
             counter ++;
         }while (counter <= 10);
     }
-    
 }
