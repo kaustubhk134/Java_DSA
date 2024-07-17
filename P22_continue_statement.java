@@ -13,5 +13,4 @@ public class P22_continue_statement {
             System.out.println("Your number was : "+ n);
         }
     }
-    
 }
