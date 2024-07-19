@@ -18,5 +18,4 @@ public class P12_Switch_Statements {
             break;
         }
     }
-    
 }
