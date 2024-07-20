@@ -13,5 +13,4 @@ public class P21_break_statement {
         }
         System.out.println("I am out of the LOOP");
     }
-    
 }
