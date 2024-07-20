@@ -11,5 +11,4 @@ public class P16_print_no_one_to_n {
             counter ++;
         }
     }
-    
 }
