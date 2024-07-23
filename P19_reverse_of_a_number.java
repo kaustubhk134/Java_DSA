@@ -11,6 +11,7 @@ public class P19_reverse_of_a_number {
             System.out.print(lastDigit);
             n = n / 10;
         }
+        
     }
     
 }
