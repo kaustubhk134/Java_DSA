@@ -18,5 +18,4 @@ public class P29_function_of_swap {
         int b = sc.nextInt();
         swap(a, b);
     }
-    
 }
