@@ -32,5 +32,4 @@ public class P59_kadane_algo_subArray {
         kadanesAlgo(num);
         minkadanesAlgo(minNum);
     }
-    
 }
