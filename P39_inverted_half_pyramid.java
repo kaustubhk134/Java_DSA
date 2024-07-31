@@ -17,5 +17,4 @@ public class P39_inverted_half_pyramid {
     public static void main(String args[]){
         invertedPyramid(4);
     }
-    
 }
