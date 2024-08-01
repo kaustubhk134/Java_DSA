@@ -5,6 +5,7 @@ public class P29_function_of_swap {
         int temp = a;
         a = b;
         b = temp;
+        
         System.out.println("Value if A : "+ a);
         System.out.println("Value if B : "+ b);
     }
