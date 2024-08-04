@@ -14,7 +14,6 @@ public class P31_function_factorial {
         System.out.println("Enter the Number : ");
         int num = sc.nextInt();
         int mulVal = factorial(num);
-
         System.out.println("Factorial is : "+ mulVal);
     }
 }
