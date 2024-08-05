@@ -14,5 +14,4 @@ public class P17_sum_of_natural_no {
         }
         System.out.print(sum);
     }
-    
 }
