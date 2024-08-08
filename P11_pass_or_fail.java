@@ -19,6 +19,5 @@ public class P11_pass_or_fail {
 
         String m = ((marks >= 33) ? "PASS" : "FAIL");
         System.out.println(m);
-
     }
 }
