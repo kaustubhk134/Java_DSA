@@ -17,6 +17,7 @@ public class P37_dec_to_bin {
 
         System.out.println("Enter the DECIMAL no : ");
         int decNo = sc.nextInt();
-        bintoDec(decNo);
+        
+        bintoDec(decNo); // calling the function
     }
 }
