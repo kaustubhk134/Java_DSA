@@ -6,5 +6,4 @@ public class P27_function_hw{
     public static void main(String args[]){
         helloWorld(); //this is function call
     }
-    
 }
