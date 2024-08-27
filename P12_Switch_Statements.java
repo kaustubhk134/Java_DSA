@@ -16,6 +16,7 @@ public class P12_Switch_Statements {
             break;
             default : System.out.println("I am Dreaming");
             break;
+                
         }
     }
 }
